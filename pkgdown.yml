@@ -1,0 +1,14 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  v01_start: v01_start.html
+  v02_good_practice: v02_good_practice.html
+  v03_par_pad_grid: v03_par_pad_grid.html
+  v04_climate_examples: v04_climate_examples.html
+  v05_targets: v05_targets.html
+  v06_when_to_use: v06_when_to_use.html
+last_built: 2026-08-09T16:07Z
+urls:
+  reference: https://docs.ropensci.org/chopin/reference
+  article: https://docs.ropensci.org/chopin/articles

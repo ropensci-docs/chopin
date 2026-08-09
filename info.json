@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "fd8a4a9b9a68d53f52eb981a9df9e5949dbae9bb",
+    "author": "Insang Song <sigmafelix@hotmail.com>",
+    "time": "2026-08-09T15:33:42Z",
+    "files": 34,
+    "merge": true,
+    "message": "Merge pull request #128 from ropensci/0.9.9\n\n0.9.9.6"
+  },
+  "repo": "https://github.com/ropensci/chopin",
+  "pkg": "chopin",
+  "time": "2026-08-09T16:09:42Z"
+}
